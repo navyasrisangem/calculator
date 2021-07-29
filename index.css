@@ -1,0 +1,77 @@
+.body {
+  background: pink;
+}
+.section {
+  margin: 0;
+  background: black;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+}
+#div1 {
+  background-color: white;
+  height: 50px;
+  width: 350px;
+
+}
+#screen {
+  background-color: white;
+  height: 44px;
+  width: 342px;
+  font-size: large;
+  font-weight: bolder;
+  
+}
+#div2 {
+  align-content: center;
+  height: 270px;
+  width: 350px;
+}
+#btn1, #btn2, #btn3, #btn4, #btn5, #btn6, #btn7, #btn8, #btn9, #btn10, #btn11, #btn12, #btn13,
+#btn14, #btn15, #btn16 {
+  width: 24%;
+  height: 20%;
+  border: none;
+  background-color: black;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+}
+#btn1:hover {
+  background-color: grey;
+}
+#btn2:hover {
+  background-color: grey;
+}#btn3:hover {
+  background-color: grey;
+}#btn4:hover {
+  background-color: grey;
+}#btn5:hover {
+  background-color: grey;
+}#btn6:hover {
+  background-color: grey;
+}#btn7:hover {
+  background-color: grey;
+}#btn8:hover {
+  background-color: grey;
+}#btn9:hover {
+  background-color: grey;
+}#btn10:hover {
+  background-color: grey;
+}#btn11:hover {
+  background-color: grey;
+}#btn12:hover {
+  background-color: grey;
+}#btn13:hover {
+  background-color: grey;
+}#btn14:hover {
+  background-color: grey;
+}#btn15:hover {
+  background-color: grey;
+}#btn16:hover {
+  background-color: grey;
+}
